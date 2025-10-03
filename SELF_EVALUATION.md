@@ -4,11 +4,11 @@
 
 ### Correctness
 
-- [ ] Image background shows trees 60% of the time, and mountains 50% of the time (mountains and trees may both appear in one image)
-- [ ] The program draws a “family” of emojis, containing a number of emojis based on the parameters to `createFamily()`
-- [ ] Each emoji in the family is randomly selected, based on your implementation of `createRandomEmoji()`
-- [ ] When run, your program iterates through an endless slideshow of these emoji photos, each with randomized backgrounds and emoji styles
-  - [ ] There is a pause for three seconds on each image so that a viewer may enjoy the slideshow!
+- [x] Image background shows trees 60% of the time, and mountains 50% of the time (mountains and trees may both appear in one image)
+- [x] The program draws a “family” of emojis, containing a number of emojis based on the parameters to `createFamily()`
+- [x] Each emoji in the family is randomly selected, based on your implementation of `createRandomEmoji()`
+- [x] When run, your program iterates through an endless slideshow of these emoji photos, each with randomized backgrounds and emoji styles
+  - [x] There is a pause for three seconds on each image so that a viewer may enjoy the slideshow!
 - [ ] (Optional) Additional randomly-selected background scenery
 - [ ] (Optional) A dark transition between each slide of the slideshow
 - [ ] (Optional) Child and adult emojis are shown in a random order
@@ -18,9 +18,9 @@
 
 Check these items from the [Comp 127 Style Guide](https://comp127.innig.net/resources/style-guide/):
 
-- [ ] all classes are in packages
-- [ ] package names start with a lowercase letter
-- [ ] newly created Java files have a header comment with
+- [x] all classes are in packages
+- [x] package names start with a lowercase letter
+- [x] newly created Java files have a header comment with
     - [ ] author name
     - [ ] brief description of class, and
     - [ ] acknowledgement, if appropriate
@@ -30,15 +30,15 @@ Check these items from the [Comp 127 Style Guide](https://comp127.innig.net/reso
 - [ ] class names are singular nouns
 - [ ] class names are in UpperCamelCase
 - [ ] proper indentation:
-    - [ ] opening curly braces (“{”) are at the end of the line
-    - [ ] closing curly braces (“}”) are on their own line
-    - [ ] the indentation of closing braces is the same as the indentation of the
+    - [x] opening curly braces (“{”) are at the end of the line
+    - [x] closing curly braces (“}”) are on their own line
+    - [x] the indentation of closing braces is the same as the indentation of the
       opening statements they match
-    - [ ] lines are indented according to how deeply they are nested
-- [ ] completed TODOs are deleted
-- [ ] extra blank lines are deleted
-- [ ] unneeded commented lines of code are deleted
-- [ ] print statements used for testing are deleted
+    - [x] lines are indented according to how deeply they are nested
+- [x] completed TODOs are deleted
+- [x] extra blank lines are deleted
+- [x] unneeded commented lines of code are deleted
+- [x] print statements used for testing are deleted
 
 
 ## Reflection
@@ -47,11 +47,11 @@ Briefly reflect in writing on your experience solving this exercise. Just a
 sentence or two in response to each question is plenty.
 
 **What did you miss? What did you wish you did better?**
-
+I missed some of the stuff according to study guide and did not do optional part
 
 
 **What challenges did you face, and how did you overcome them?**
-
+I find it very different as how this activity is different with the emoji activity we have done in class, as this one we want to manage our emojis.
 
 
 **What is something that was interesting or exciting, or a lesson you learned
